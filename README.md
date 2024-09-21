@@ -2,7 +2,7 @@
 ![Static Badge](https://img.shields.io/badge/CSS-blue)
 ![Static Badge](https://img.shields.io/badge/JS-yellow)
 
-# MonitorComparison
+# MefTok
 **[Сайт](https://kitsunevog.github.io/MefTok)** - Объединение TikTok и мемов
 
 ## Интерфейс
