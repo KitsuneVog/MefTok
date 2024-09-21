@@ -1,4 +1,8 @@
 let number = 0
+var arr = arr.split(',');
+
+console.log(arr);
+
 
 renderContent();
 
