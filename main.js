@@ -10,12 +10,9 @@ var arr = [
   "images/meme/6.jpg",
   "images/meme/7.jpg",
   "images/meme/8.jpg",
-  "images/meme/9.jpg",
-  "images/meme/10.jpg",
+  "images/meme/9.jpg"
 ];
 
-
-console.log(arr);
 renderContent();
 
 function renderContent() {
