@@ -24,9 +24,8 @@ function renderContent() {
   img.setAttribute("alt", " ");
   document.getElementById("section-"+number).appendChild(img);
 
-  number++;
   console.log(number);
-  
+  number++;
 };
 
 function handleScroll() {
