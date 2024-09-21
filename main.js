@@ -6,6 +6,12 @@ var arr = [
   "images/meme/2.jpg",
   "images/meme/3.jpg",
   "images/meme/4.jpg",
+  "images/meme/5.jpg",
+  "images/meme/6.jpg",
+  "images/meme/7.jpg",
+  "images/meme/8.jpg",
+  "images/meme/9.jpg",
+  "images/meme/10.jpg",
 ];
 
 
